@@ -22,4 +22,13 @@ The python script fingen.py creates a set of all necessary data. The created key
 An example can be seen here: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg
 
 
+# Power consumption
+An important aspect of long-term trackers is power consumption.
+
+The popular ST17H66 is given as an example: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image6.jpg
+
+The power consumption of the FindMyIN100 with a 1.5v battery is even lower: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image7.jpg
+
+
+
 
