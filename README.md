@@ -9,7 +9,7 @@ The goal was to create a tracker/tag that requires as little power as possible a
 The size of previous tracker/tag was primarily determined by the battery.
 
 nRF52 button style:
-!(https://github.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg)
+![Preview](https://raw.githubusercontent.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg)
 
 ST17H66 keyfob style: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image1.jpg
 
