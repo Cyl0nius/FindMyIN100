@@ -9,26 +9,31 @@ The goal was to create a tracker/tag that requires as little power as possible a
 The size of previous tracker/tag was primarily determined by the battery.
 
 nRF52 button style:
-<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg">
 
-ST17H66 keyfob style: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image1.jpg
+ST17H66 keyfob style: 
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image1.jpg">
 
-ESP32: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image4.jpg
+ESP32:
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image4.jp)">
 
-Even the 'cut' ST17H66 will be dominated by the size of the battery: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image2.jpg
+Even the 'cut' ST17H66 will be dominated by the size of the battery:
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image2.jpg">
 
 # Key generation
 The python script fingen.py creates a set of all necessary data. The created key file is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py
 
-An example can be seen here: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg
-
+An example can be seen here:
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg">
 
 # Power consumption
 An important aspect of long-term trackers is power consumption.
 
-The popular ST17H66 is given as an example: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image6.jpg
+The popular ST17H66 is given as an example:
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image6.jpg">
 
-The power consumption of the FindMyIN100 with a 1.5v battery is even lower: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image7.jpg
+The power consumption of the FindMyIN100 with a 1.5v battery is even lower:
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image7.jpg">
 
 # Programming the FindMyIN100
 
