@@ -12,7 +12,7 @@ nRF52 button style:
 
 ST17H66 keyfob style:
 
-Even the 'cut' ST17H66 is dominated by the size of the battery:
+Even the 'cut' ST17H66 will be dominated by the size of the battery:
 
 
 
