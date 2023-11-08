@@ -29,6 +29,7 @@ The popular ST17H66 is given as an example: https://github.com/Cyl0nius/FindMyIN
 
 The power consumption of the FindMyIN100 with a 1.5v battery is even lower: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image7.jpg
 
+# Programming the FindMyIN100
 
 
 
