@@ -10,7 +10,7 @@ The size of previous tracker/tag was primarily determined by the battery.
 
 nRF52 button style:
 
-<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg" style="width: 50%; height: 50%"/>
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image3.jpg" style="width: 30%; height: 30%"/>
 
 ST17H66 keyfob style: 
 
