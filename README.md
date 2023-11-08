@@ -15,7 +15,7 @@ ST17H66 keyfob style:
 <img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image1.jpg">
 
 ESP32:
-<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image4.jpg)">
+<img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image4.jpg">
 
 Even the 'cut' ST17H66 will be dominated by the size of the battery:
 <img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image2.jpg">
