@@ -9,7 +9,9 @@ The goal was to create a tracker/tag that requires as little power as possible a
 The size of previous tracker/tag was primarily determined by the battery.
 
 nRF52 button style:
+
 ST17H66 keyfob style:
+
 Even the 'cut' ST17H66 is dominated by the size of the battery:
 
 
