@@ -17,7 +17,7 @@ ESP32: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image4.jpg
 Even the 'cut' ST17H66 will be dominated by the size of the battery: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image2.jpg
 
 # Key generation
-The python script fingen.py creates a set of all necessary data. The key file is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py
+The python script fingen.py creates a set of all necessary data. The created key file is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py
 
 An example can be seen here: https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg
 
