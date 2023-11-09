@@ -27,12 +27,12 @@ Even the 'cut' ST17H66 will be dominated by the size of the battery:
 
 # Key generation
 The python script fingen.py creates a set of all necessary data.
-An example can be seen here:
+A screenshot of the output can be seen here:
 
 <img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg" style="width: 30%; height: 30%"/>
 
 The created key file (*.keys) is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py and contains the data for the IN100 config tool too.
-
+A sample file is here: https://github.com/Cyl0nius/FindMyIN100/blob/main/u7tw3pU.keys
 
 # Power consumption
 An important aspect of long-term trackers is power consumption.
