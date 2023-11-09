@@ -31,7 +31,7 @@ An example can be seen here:
 
 <img src="https://github.com/Cyl0nius/FindMyIN100/blob/main/Image5.jpg" style="width: 30%; height: 30%"/>
 
-The created key file (*.keys) is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py
+The created key file (*.keys) is compatible with: https://github.com/biemster/FindMy/blob/main/request_reports.py and contains the data for the IN100 config tool too.
 
 
 # Power consumption
